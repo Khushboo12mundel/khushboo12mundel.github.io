@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Line Following Robot ",
+    "desc": "Line Follower Robot is able to track a line with the help of an IR sensor.",
+
+    "image": "portfolio1",
+    "category": "android",
+    "links": {
+      "photos": "https://diyprojectslab.com/line-follower-robot-using-raspberry-pi-pico/",
+      "All about this project": "https://circuitdigest.com/microcontroller-projects/raspberry-pi-line-follower-robot"
+    }
+  },
+  {
+    "name": "Coloured Candy Sorting Robo",
+    "desc": " high speed sorting of candy into desired locations ",
+    "image": "pro2",
+    "category": "android",
+    "links": {
+      "photos": "https://interestingengineering.com/video/make-your-very-own-arduino-based-color-candy-sorting-machine",
+      "All about this project": "https://interestingengineering.com/video/make-your-very-own-arduino-based-color-candy-sorting-machine"
+    }
+  },
+  {
+    "name": "PIR based IOT ",
+    "desc": "The light or any other electrical appliance can be activated automatically by the active presence of a human 
+    body within the detection range",
+    "image": "pro3",
+    "category": "android",
+    "links": {
+      "photos": "https://www.electronicshub.org/automatic-room-lights-using-arduino-pir-sensor/",
+      "All about this project": "https://www.electronicshub.org/automatic-room-lights-using-arduino-pir-sensor/"
+    }
+  },
+  {
+    "name": "Gripping Robot",
+    "desc": " grip objects and put them in target zones while overcoming the hurdles ",
+    "image": "pro2",
+    "category": "android",
+    "links": {
+      "photos": "https://www.universal-robots.com/blog/robot-grippers-explained/",
+      "All about this project": "https://www.universal-robots.com/blog/robot-grippers-explained/"
+    }
+  },
+  
+]
